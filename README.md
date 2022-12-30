@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Case Study Numnber 1
+# Google Data Analytics Capstone Case Study Track 1
 
 ## BACKGROUND
 
